@@ -2,7 +2,7 @@
 
 ### ①Android Studio版本：
 
-![ASversion](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/ASver.png)
+![ASversion](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/ASver.png)
 
 
 
@@ -14,17 +14,17 @@
 
 ​		遇到问题:
 
-![problem](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/problem.png)
+![problem](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/problem.png)
 
 ​		重新安装tornado：
 
-![solve](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/solveProblem.png)
+![solve](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/solveProblem.png)
 
 ​		成功运行：
 
-![launch1](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/launch1.png)
+![launch1](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/launch1.png)
 
-![launch2](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/launch2.png)
+![launch2](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/launch2.png)
 
 ​	
 
@@ -32,23 +32,23 @@
 
 ​		生成配置文件：
 
-![config1](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/config1.png)
+![config1](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/config1.png)
 
 ​		修改配置文件：
 
-![config2](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/config2.png)
+![config2](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/config2.png)
 
 ​		修改目标位置（删除后缀）：
 
-![delete](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/config_delete.png)
+![delete](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/config_delete.png)
 
 重新运行：
 
-![path](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/PATH.png)
+![path](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/PATH.png)
 
 ​	初见notebook：
 
-![test1](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/test1.png)
+![test1](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/test1.png)
 
 至此，jupyter notebook完成安装，并且修改了默认加载路径。
 
@@ -72,8 +72,8 @@
 
    ① “开始 → Anaconda3（64-bit）→ Anaconda Navigator”，若可以成功启动Anaconda Navigator则说明安装成功。
 
-   ![anacoda](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/anaconda.png)
+   ![anacoda](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/anaconda.png)
 
    ② “开始 → Anaconda3（64-bit）→ 右键点击Anaconda Prompt → 以管理员身份运行”，在Anaconda Prompt中输入 ***conda list\*** ，可以查看已经安装的包名和版本号。若结果可以正常显示，则说明安装成功。
 
-   ![condaList](https://github.com/ChenyangLiuu/exp1/blob/main/Screenshot/condaList.png)
+   ![condaList](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp1/Screenshot/condaList.png)
