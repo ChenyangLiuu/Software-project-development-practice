@@ -97,7 +97,3 @@ for (output in outputs) {
                      height="520"/></center></td>
     </tr>
 </table>
-
-![rose](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/rose.jpg)
-
-![sunflower](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/sunflower.jpg)
