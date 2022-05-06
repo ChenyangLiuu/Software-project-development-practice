@@ -18,7 +18,7 @@
 
 ​		1.鸿蒙系统设置中连续点击7次*版本号*，并且开启USB调试
 
-![develop](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/develop.png)
+![develop](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/develop.jpg)
 
 ​		2.选择物理机作为运行设备
 
@@ -26,7 +26,7 @@
 
 ​	成功运行（此时还不具备识别花卉的功能）
 
-![1](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/1.png)
+![1](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/1.jpg)
 
 ##### 向项目中添加TensorFlow Lite
 
