@@ -87,6 +87,6 @@ for (output in outputs) {
 
 ​	识别成功
 
-![rose](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/rose.png)
+![rose](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/rose.jpg)
 
-![sunflower](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/sunflower.png)
+![sunflower](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/sunflower.jpg)
