@@ -87,6 +87,17 @@ for (output in outputs) {
 
 ​	识别成功
 
+<table frame=void>	<!--使用table标签，且frame=void消除外边框-->
+	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
+    <td><center><img src="https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/rose.jpg"		
+                     alt="找不到图片，可能是网络原因"
+                     height="520"/></center></td>	<!--<center>标签将图片居中-->
+    <td><center><img src="https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/sunflower.jpg"
+                     alt="找不到图片，可能是网络原因"
+                     height="520"/></center></td>
+    </tr>
+</table>
+
 ![rose](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/rose.jpg)
 
 ![sunflower](https://github.com/ChenyangLiuu/Software-project-development-practice/blob/main/exp3/ScreenShots/sunflower.jpg)
