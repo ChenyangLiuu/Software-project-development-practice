@@ -457,3 +457,25 @@ fig.tight_layout()
 ![png](output_32_0.png)
     
 
+
+### Jupyter Notebook扩展工具
+
+Jupter Notebook的扩展工具(extensions)可以提供丰富的附加功能，例如代码补全、内容目录、变量检查等。本节演示如何安装扩展工具和启用代码补全功能。
+
+![png](start.png)
+
+终端中依次输入下面4条命令，等待命令执行完成
+
+pip install jupyter_contrib_nbextensions
+
+jupyter contrib nbextension install --user
+
+pip install jupyter_nbextensions_configurator
+
+jupyter nbextensions_configurator enable --user
+
+完成之后，重新打开Jupyter Notebook启动页面，看到：
+
+![png](pick.png)
+
+安装后，可以用TAB键进行代码补全
